@@ -1,0 +1,85 @@
+/*shuterbug bootstrap project 12.3.19
+Created By:  Letisha Rahming
+a hero image is an image provided by your content provider that will draw in your crowd.
+it should have a focal point and negative space to work in harmony with text.
+*/
+
+.container{
+	max-width: 968px;
+}
+
+.main{
+	background-image: url("../images/sbugg_images/intro.jpg");
+	height: 600px;
+	background-size: cover;
+	padding:
+}
+
+.main h1{
+		font-family: "Fugaz One", cursive;
+		font-size: 70px;
+		text-shadow: pink 2px 4px 3px;
+		transition: text-shadow 1s;
+}
+
+.main h1:hover{
+	text-shadow:peachpuff 5px 5px 5px;
+	font-size: 71px;
+}
+
+.main h2{
+	font-family: 'Sulphur Point', sans-serif;
+	margin:-bottom:40px;
+}
+
+.btn{
+	font-size:20px;
+	font-family: 'Orbitron', sans-serif;
+	background-color: ivory;
+	border-radius: 35px;
+}
+
+body{
+	background-color: ivory;
+	
+}
+
+p{
+	font-family: 'Sulphur Point', sans-serif;
+	font-size: 20px;
+}
+
+li{
+	font-family: 'Sulphur Point', sans-serif;
+	font-size: 20px;
+}
+
+#store h2{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 32px;
+}
+
+.row{
+	padding-top: 45px;
+	
+}
+
+.row h1{
+	font-family: 'Orbitron', sans-serif;
+}
+
+#store{
+	padding-top:30px;
+	text-align:center;
+	border-bottom: 3px solid salmon;
+}
+
+.footer h1{
+	font-size: 32px;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.footer ul{
+	list-style-type: none;
+	padding-left:15px;
+}
